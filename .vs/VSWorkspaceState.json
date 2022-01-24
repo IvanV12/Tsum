@@ -8,7 +8,11 @@
 =======
     "\\TestProjectTsum2"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\TestProjectTsum2\\UnitTest1.cs",
+>>>>>>> Test
+=======
+  "SelectedNode": "\\TestProjectTsum2\\Respect.txt",
 >>>>>>> Test
   "PreviewInSolutionExplorer": false
 }
