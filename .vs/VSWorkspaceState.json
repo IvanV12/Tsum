@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\TestApi"
   ],
   "SelectedNode": "\\TestApi\\.editorconfig",
+=======
+    "\\TestProjectTsum2"
+  ],
+  "SelectedNode": "\\TestProjectTsum2\\UnitTest1.cs",
+>>>>>>> Test
   "PreviewInSolutionExplorer": false
 }

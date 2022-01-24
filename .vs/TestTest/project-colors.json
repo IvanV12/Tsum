@@ -1,6 +1,7 @@
 {
   "Version": 1,
   "ProjectMap": {
+<<<<<<< HEAD
     "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
@@ -8,4 +9,13 @@
     }
   },
   "NextColorIndex": 0
+=======
+    "a0af260c-cbdd-48cf-9dc8-d3572f2f3fae": {
+      "ProjectGuid": "a0af260c-cbdd-48cf-9dc8-d3572f2f3fae",
+      "DisplayName": "TestProjectTsum2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+>>>>>>> Test
 }
