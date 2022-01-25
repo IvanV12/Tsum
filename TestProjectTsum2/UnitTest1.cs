@@ -1,4 +1,4 @@
-//just comment
+//just comment редактор Sublime Text
 using Xunit;
 
 namespace TestProjectTsum2
